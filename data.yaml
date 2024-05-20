@@ -1,0 +1,5 @@
+names:
+- car
+nc: 1
+train: C:\Users\thoma\MasterProjects\AdvanceDeepCourse\ProjectCars\aug_data\train
+val: C:\Users\thoma\MasterProjects\AdvanceDeepCourse\ProjectCars\aug_data\val
