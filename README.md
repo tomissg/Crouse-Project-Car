@@ -11,3 +11,4 @@ Dataset: https://github.com/VisDrone/VisDrone-Dataset
 Dataset Discription: https://github.com/VisDrone/VisDrone2018-DET-toolkit
 
 Refference paper: Nordic Vehicle Dataset (NVD): Performance of Vehicle Detectors Using Newly Captured NVD From UAV in Different Snowy Weather Conditions
+Yolov9 info: https://docs.ultralytics.com/models/yolov9/#citations-and-acknowledgements
