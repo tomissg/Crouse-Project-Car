@@ -6,3 +6,8 @@ The pipeline goes as followed
 4) When all that is done I create the needed format of the directories in order to creat the yaml file of the data in order to feed the pretrained yolov9 model
 
 For this task is important to install all the necessary cuda packages based on your graphic card
+
+Dataset: https://github.com/VisDrone/VisDrone-Dataset
+Dataset Discription: https://github.com/VisDrone/VisDrone2018-DET-toolkit
+
+Refference paper: Nordic Vehicle Dataset (NVD): Performance of Vehicle Detectors Using Newly Captured NVD From UAV in Different Snowy Weather Conditions
